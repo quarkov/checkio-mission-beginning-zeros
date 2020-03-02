@@ -1,1 +1,1 @@
-checkio --domain py autofillrepo --py-function sum_two --js-function sumTwo .
+checkio --domain py autofillrepo --py-function beginning_zeros --js-function beginningZeros --desc-tests 6 .
